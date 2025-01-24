@@ -6,7 +6,7 @@ public class Principal {
 		System.out.println("Hola, mundo");
 		System.out.println("Nuevo cambio");
 		System.out.println("Cambio hecho en la rama1");
-		
+		System.out.println("Otro cambio");
 	}
 
 }
